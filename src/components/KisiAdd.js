@@ -29,7 +29,7 @@ function KisiAdd() {
   }
 
   return (
-    <div className="card">
+    <div className="card mt-3">
       <div className="card-header">Yeni Kişi Ekle</div>
       <div className="card-body">
         <div className="input-group mb-3">

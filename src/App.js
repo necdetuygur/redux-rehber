@@ -3,7 +3,7 @@ import KisiList from "./components/KisiList";
 
 function App() {
   return (
-    <div className="container-fluid pt-3">
+    <div className="container-fluid">
       <div className="row">
         <div className="col-md-6">
           <KisiAdd />

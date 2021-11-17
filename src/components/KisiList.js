@@ -11,7 +11,7 @@ function KisiList() {
   }
 
   return (
-    <div className="card">
+    <div className="card mt-3">
       <div className="card-header">Kişiler</div>
       {kisis.length > 0 ? (
         <div className="card-body p-0">
