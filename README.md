@@ -1,4 +1,4 @@
-New Project: https://github.com/necdetuygur/redux-rehbera-pwa
+New Project: https://github.com/necdetuygur/redux-rehber-pwa
 
 
 npm i bootstrap
